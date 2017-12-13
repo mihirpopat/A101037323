@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">A1101037323</string>
+    <string name="select_restaurant">Select Restaurant</string>
+
+    <string-array name="cuisine_options">
+        <item>American</item>
+        <item>Italian</item>
+        <item>Chinese</item>
+        <item>Indian</item>
+        <item>International</item>
+    </string-array>
+
+    <string name="Enter_name">Name</string>
+    <string name="Address">Address</string>
+    <string name="CC_no">CCno</string>
+    <string name="Ph_no">Phone Number</string>
+    <string name="Fav_food">Favourite Food</string>
+    <string name="Register">Register</string>
+
+
+</resources>
